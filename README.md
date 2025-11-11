@@ -9,8 +9,11 @@ It demonstrates the use of **Entity Framework Core**, **SQLite database**, and *
 This project is developed as part of the **Web Technologies with .NET** course to showcase core concepts such as MVC architecture, database integration, caching, and asynchronous operations.
 
 Name: Dipak Patil
+
 Enrollment Number: 202403103520008
+
 Division: 5E
+
 Branch: AMTICS(IT)
 
 ---
