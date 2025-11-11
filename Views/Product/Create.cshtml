@@ -1,0 +1,22 @@
+@model OnlineProductManagementSystem.Models.Product
+
+<h2>Create Product</h2>
+<form asp-action="Create" method="post">
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div>
+        <label>Description</label>
+        <input asp-for="Description" class="form-control" />
+    </div>
+    <div>
+        <label>Price</label>
+        <input asp-for="Price" class="form-control" />
+    </div>
+    <div>
+        <label>Quantity</label>
+        <input asp-for="Quantity" class="form-control" />
+    </div>
+    <button type="submit">Save</button>
+</form>
